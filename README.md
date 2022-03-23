@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ant0ni07
 - 👀 I’m interested in software and web development
-- 🌱 I’m currently learning HTML, CSS, Javasript, Python, MySQL, NoSQL, MongoDB, PHP
+- 🌱 I’m currently learning HTML, CSS, Javasript, Python, MySQL, NoSQL, MongoDB, PHP, Flask
 -
 
 <!---
