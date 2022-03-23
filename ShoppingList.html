@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping List </title>
+    <link rel="shortcut icon" href="../images/favicon-16x16.png" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
+
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="inputAndBtn">
+            <h1 id="title">Welcome to your shopping list</h1>
+            <p id="dates"></p>
+            <h2 id="added">Enter your item</h2>
+
+            <input type="text" id="addProduct" required>
+            <button type="submit" id="addBtn">Add Item</button>
+
+            <div id="items">
+                <div class="card"></div>
+            </div>
+            <button type="button" id="printBtn" onclick="print()">PRINT</button>
+            <button type="button" id="clearBTn" onclick="deleteAll()">DELETE ALL</button>
+        </div>
+
+
+        <p id="values"></p>
+        <div id="another">
+
+            <!-- delete / clear all  / done -->
+            <!-- dates maybe -->
+            <!-- get from storage and print on list? / done-->
+            <!-- keyboard enter to add items as well / done -->
+            <!-- only letters and numbers -->
+        </div>
+
+        <script src="shopList.js"></script>
+    </div>
+
+
+</body>
+
+</html>
