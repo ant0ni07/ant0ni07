@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ant0ni07
 - 👀 I’m interested in software and web development
-- 🌱 Software Bootcamp learning HTML, CSS, Javasript, Python, MySQL, NoSQL, MongoDB, PHP, Flask
+- 🌱 Software Bootcamp for HTML, CSS, Javasript, Python, MySQL, NoSQL, MongoDB, PHP, Flask
 - ✨ Job Experience in Java / SpringBoot / Angular / PostgreSQL
   
 
